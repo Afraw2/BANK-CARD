@@ -52,5 +52,5 @@ It features a 3D flip animation when you hover over the card, revealing the back
 
 ## ✨ Author
 
-Made with 💙 by [YourName]  
+Made with 💙 by [Afra]  
 _This project was made just for fun and design practice._
